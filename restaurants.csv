@@ -1,0 +1,1001 @@
+RestaurantID,Name,Category,PriceTier,Neighborhood,OpeningHours,ClosingHours,AverageRating,GoodForKids
+1,Wikizz,Italian,Cheap,Soho,1:28,4:56,2,false
+2,Skinix,Mediterranean,Cheap,Chelsea,7:57,7:28,3,false
+3,Twimbo,Mexican,Average,Harlem,22:09,22:13,2,false
+4,Wordtune,Arabic,Average,Financial District,1:33,16:26,2,true
+5,Topicware,Arabic,Expensive,Harlem,1:51,11:13,1,false
+6,Kayveo,Czech,Expensive,Chelsea,17:53,20:10,2,true
+7,Skipstorm,Thai,Average,East Village,1:03,17:46,2,false
+8,Avaveo,Italian,Average,Upper East Side,21:25,10:32,5,false
+9,Ntag,Italian,Cheap,Chelsea,21:39,22:19,3,true
+10,Devbug,Czech,Expensive,East Village,2:23,8:41,5,false
+11,Nlounge,Czech,Cheap,Harlem,18:26,16:33,4,false
+12,Jamia,Chinese,Expensive,Upper East Side,8:12,6:28,4,true
+13,Devpulse,Thai,Cheap,Soho,7:56,5:27,1,false
+14,Izio,Indian,Average,Soho,13:03,15:35,3,false
+15,Brightbean,Chinese,Average,East Village,0:16,3:14,5,false
+16,Agivu,Greek,Cheap,Chelsea,23:48,23:23,2,false
+17,Topiclounge,Indian,Average,Harlem,17:31,20:56,4,false
+18,Browseblab,Arabic,Cheap,Harlem,8:27,21:44,5,false
+19,Aibox,Italian,Average,East Village,15:45,14:53,4,true
+20,Yacero,Chinese,Average,Hudson Yards,7:22,16:10,5,true
+21,Topicstorm,Mediterranean,Expensive,Upper East Side,1:49,23:15,4,true
+22,Dynabox,Mexican,Average,Chelsea,22:36,23:56,2,true
+23,Meembee,Italian,Average,Upper East Side,7:28,11:44,2,false
+24,Jabbercube,Arabic,Cheap,East Village,21:43,2:07,4,true
+25,Demimbu,Indian,Cheap,Chelsea,9:36,6:03,2,true
+26,Blogtags,Arabic,Cheap,Chelsea,18:10,4:14,4,false
+27,Skipfire,Italian,Cheap,Soho,20:03,7:23,5,false
+28,Innotype,Chinese,Average,Hudson Yards,16:23,5:12,1,false
+29,Zooxo,Italian,Cheap,Chelsea,6:12,15:00,4,true
+30,Pixonyx,Thai,Average,Hudson Yards,23:42,8:43,1,true
+31,Oodoo,Indian,Expensive,Hudson Yards,13:40,23:19,1,true
+32,Wikizz,Thai,Cheap,East Village,13:33,18:35,5,true
+33,Meejo,Arabic,Expensive,Hudson Yards,19:11,8:15,3,false
+34,Minyx,Thai,Cheap,Soho,2:23,9:25,5,true
+35,Jabbersphere,Italian,Expensive,East Village,0:22,15:31,4,true
+36,Jetwire,Italian,Cheap,Chelsea,5:46,14:04,3,true
+37,Dabshots,Arabic,Expensive,Chelsea,1:54,15:11,5,false
+38,Rhyloo,Indian,Average,Upper East Side,12:45,8:24,4,false
+39,Teklist,Thai,Average,Soho,4:29,21:00,2,true
+40,Zazio,Indian,Expensive,Hudson Yards,21:04,14:32,4,false
+41,Gabspot,Mexican,Cheap,Financial District,7:44,6:11,1,false
+42,Cogilith,Arabic,Cheap,East Village,20:09,1:22,2,true
+43,Skiba,Italian,Cheap,Soho,15:05,21:36,1,false
+44,DabZ,Arabic,Expensive,Chelsea,6:25,13:38,2,true
+45,Brightdog,Italian,Cheap,Upper East Side,15:38,0:07,1,true
+46,LiveZ,Thai,Average,Financial District,10:04,6:39,1,false
+47,Twitterbeat,Arabic,Average,Chelsea,23:01,19:36,3,true
+48,Shuffletag,Mediterranean,Expensive,Chelsea,9:32,5:21,4,false
+49,Thoughtstorm,Arabic,Average,Soho,20:16,1:44,2,false
+50,Dynava,Greek,Expensive,East Village,4:10,19:33,2,false
+51,Yabox,Mexican,Cheap,Chelsea,23:24,20:28,3,true
+52,Tekfly,Mexican,Cheap,Chelsea,15:05,0:17,5,false
+53,Blognation,Mexican,Average,Chelsea,17:56,14:05,2,true
+54,Topicstorm,Czech,Expensive,Harlem,12:27,7:46,1,true
+55,Trupe,Thai,Cheap,Hudson Yards,10:26,21:23,4,false
+56,Yakidoo,Arabic,Cheap,Chelsea,8:33,2:41,1,true
+57,Jabberbean,Italian,Cheap,Upper East Side,4:21,22:52,4,true
+58,Feedfire,Arabic,Average,Soho,1:20,16:47,4,true
+59,Realfire,Italian,Expensive,East Village,13:32,3:43,3,false
+60,Rhycero,Mediterranean,Cheap,Upper East Side,3:03,9:39,5,true
+61,Twitterworks,Thai,Average,Financial District,16:40,10:14,4,false
+62,Lazz,Greek,Cheap,Upper East Side,14:39,23:57,5,true
+63,Tekfly,Arabic,Cheap,Soho,0:39,3:33,2,false
+64,Buzzdog,Czech,Average,Harlem,23:02,3:29,1,false
+65,DabZ,Mexican,Expensive,Hudson Yards,22:13,9:07,1,true
+66,Fivebridge,Italian,Average,Harlem,8:30,21:13,4,true
+67,Agivu,Thai,Average,East Village,21:32,19:34,1,true
+68,Zoovu,Indian,Expensive,Hudson Yards,8:44,9:59,2,true
+69,Zoomdog,Mexican,Expensive,Hudson Yards,20:15,7:21,5,true
+70,Pixonyx,Indian,Expensive,Soho,11:12,20:13,3,false
+71,Tazz,Greek,Cheap,East Village,0:00,17:28,4,false
+72,Kanoodle,Mediterranean,Expensive,Hudson Yards,0:19,15:09,1,true
+73,Nlounge,Czech,Average,Harlem,21:25,1:25,2,true
+74,Gigaclub,Mexican,Expensive,Hudson Yards,2:40,21:26,4,false
+75,Dabtype,Thai,Expensive,Hudson Yards,7:36,1:20,2,true
+76,Dynabox,Thai,Cheap,Financial District,7:42,2:36,1,true
+77,Kazio,Czech,Expensive,Soho,19:10,8:22,3,false
+78,Roodel,Mediterranean,Expensive,Harlem,14:05,1:47,4,false
+79,Wordify,Greek,Average,Harlem,17:23,11:10,1,false
+80,Voonder,Mexican,Cheap,East Village,2:04,23:11,1,false
+81,Eire,Mediterranean,Cheap,Hudson Yards,11:44,3:05,1,true
+82,Edgetag,Thai,Expensive,Financial District,4:52,14:48,2,true
+83,Yodoo,Greek,Average,East Village,17:50,20:25,4,false
+84,Kayveo,Italian,Average,Soho,14:55,3:49,4,true
+85,Kanoodle,Arabic,Expensive,Chelsea,23:10,5:58,4,true
+86,Podcat,Arabic,Average,Financial District,11:54,7:40,3,true
+87,Podcat,Czech,Average,Harlem,3:18,13:21,1,true
+88,Blogpad,Italian,Cheap,Hudson Yards,14:52,6:32,5,false
+89,Babbleopia,Czech,Average,Financial District,7:34,2:44,1,true
+90,Kare,Greek,Cheap,Financial District,14:54,22:15,2,false
+91,Gabtype,Italian,Average,Harlem,8:42,18:26,1,true
+92,Dynava,Mediterranean,Expensive,Harlem,18:10,5:18,5,true
+93,Buzzdog,Greek,Cheap,Soho,17:51,15:14,2,false
+94,Kare,Italian,Expensive,Harlem,14:15,11:51,1,false
+95,BlogXS,Indian,Expensive,Hudson Yards,9:09,4:29,4,false
+96,Realmix,Mexican,Cheap,East Village,16:53,21:07,1,false
+97,Roombo,Mexican,Cheap,East Village,13:11,23:01,1,true
+98,Vinte,Mexican,Cheap,Upper East Side,22:54,9:30,3,false
+99,Trunyx,Arabic,Average,Harlem,5:45,15:54,2,true
+100,Wordify,Czech,Cheap,East Village,19:05,23:22,1,true
+101,Twitterlist,Mediterranean,Cheap,Soho,1:05,2:55,4,false
+102,DabZ,Indian,Expensive,Upper East Side,16:48,21:13,5,true
+103,Livepath,Mediterranean,Cheap,Harlem,2:21,20:45,1,false
+104,Skibox,Indian,Expensive,Harlem,16:05,21:36,1,false
+105,Topiczoom,Chinese,Expensive,Chelsea,1:07,13:51,4,true
+106,Livepath,Arabic,Expensive,Soho,0:49,17:36,1,true
+107,Gabspot,Thai,Cheap,Hudson Yards,8:37,15:10,5,false
+108,Wikido,Indian,Cheap,Upper East Side,4:53,14:03,4,false
+109,Meetz,Italian,Average,Hudson Yards,18:16,23:41,5,false
+110,Twimbo,Italian,Expensive,Financial District,4:01,5:00,1,true
+111,Oodoo,Thai,Cheap,Financial District,18:11,2:17,5,true
+112,Quire,Greek,Cheap,East Village,13:31,5:48,2,false
+113,Feedfire,Indian,Cheap,Financial District,3:03,22:02,1,false
+114,Yombu,Czech,Cheap,Hudson Yards,4:44,21:20,4,true
+115,Omba,Czech,Expensive,Financial District,3:54,12:21,3,false
+116,Voomm,Greek,Cheap,Harlem,21:39,17:24,2,false
+117,Mudo,Thai,Expensive,Soho,16:26,10:12,3,true
+118,Ailane,Mediterranean,Cheap,Harlem,11:54,20:42,2,false
+119,Camido,Italian,Expensive,Hudson Yards,21:11,22:40,4,false
+120,Aibox,Chinese,Expensive,Upper East Side,14:05,15:59,1,true
+121,Wordware,Thai,Average,Soho,2:33,15:33,1,false
+122,Tagopia,Indian,Cheap,Harlem,1:59,12:11,4,true
+123,Zooveo,Indian,Expensive,East Village,1:47,11:58,3,false
+124,Topiczoom,Mediterranean,Cheap,Chelsea,14:05,2:13,2,true
+125,Edgeclub,Greek,Cheap,Financial District,10:29,19:44,3,true
+126,Avamba,Greek,Expensive,Chelsea,14:29,7:38,5,true
+127,Meembee,Mediterranean,Expensive,Harlem,6:44,7:32,2,true
+128,Browsedrive,Mexican,Average,Hudson Yards,19:07,17:44,5,false
+129,Oyoba,Chinese,Average,East Village,23:02,18:28,2,true
+130,Kimia,Chinese,Cheap,Chelsea,17:53,2:45,5,false
+131,Devcast,Italian,Cheap,Financial District,16:06,20:15,2,false
+132,Youspan,Czech,Cheap,Hudson Yards,10:07,5:39,4,true
+133,Roombo,Italian,Average,Hudson Yards,0:42,14:59,5,true
+134,BlogXS,Czech,Average,Harlem,23:39,11:09,2,false
+135,Skyvu,Greek,Expensive,Financial District,20:33,15:24,2,false
+136,Gabtype,Indian,Cheap,Harlem,4:40,5:38,3,false
+137,Divanoodle,Greek,Expensive,Chelsea,9:18,17:09,3,true
+138,Photofeed,Czech,Cheap,Upper East Side,7:04,2:57,4,true
+139,Bluezoom,Chinese,Expensive,Chelsea,16:36,6:33,4,false
+140,Jamia,Chinese,Average,Soho,14:29,5:44,1,false
+141,Wikizz,Mediterranean,Average,Upper East Side,1:37,7:23,2,true
+142,Youspan,Indian,Expensive,Harlem,14:55,17:50,4,true
+143,Voolith,Italian,Average,East Village,16:50,21:25,1,true
+144,InnoZ,Chinese,Expensive,Hudson Yards,16:01,0:57,2,false
+145,Blogtags,Thai,Average,East Village,20:56,9:57,3,false
+146,Oyope,Czech,Cheap,Soho,2:19,1:30,2,false
+147,Dablist,Thai,Average,Soho,4:29,8:45,3,false
+148,Flashspan,Mediterranean,Cheap,Financial District,23:31,14:24,5,false
+149,Npath,Czech,Average,Financial District,0:31,17:27,4,true
+150,Jabbersphere,Czech,Average,Financial District,19:40,3:41,1,false
+151,Zooveo,Chinese,Expensive,Upper East Side,3:35,7:30,5,true
+152,Rhynyx,Italian,Average,Upper East Side,11:04,12:51,4,true
+153,Mita,Chinese,Expensive,Hudson Yards,10:06,18:31,5,false
+154,Topicstorm,Italian,Expensive,Harlem,7:56,22:16,5,true
+155,Rhynyx,Thai,Expensive,Soho,2:11,2:29,1,true
+156,Ooba,Italian,Expensive,Soho,10:08,14:15,4,false
+157,Youbridge,Thai,Average,Hudson Yards,19:40,20:09,4,false
+158,Brainsphere,Chinese,Cheap,East Village,17:00,20:56,1,true
+159,Centimia,Arabic,Cheap,Chelsea,6:08,13:16,1,false
+160,Dynabox,Czech,Average,Chelsea,12:34,10:23,5,false
+161,Aimbu,Italian,Expensive,Harlem,9:41,19:32,1,false
+162,Pixonyx,Czech,Expensive,Harlem,19:49,17:09,1,false
+163,Edgeblab,Italian,Expensive,Upper East Side,22:14,23:36,2,true
+164,Livetube,Greek,Expensive,Financial District,14:52,17:56,4,true
+165,Pixope,Greek,Average,Chelsea,3:59,3:33,4,true
+166,Zoombox,Chinese,Cheap,Upper East Side,0:56,1:00,3,false
+167,Voomm,Chinese,Cheap,Financial District,7:29,13:34,4,false
+168,Talane,Mediterranean,Cheap,Chelsea,3:16,10:11,1,false
+169,Yodoo,Italian,Average,Chelsea,6:16,9:03,3,false
+170,Jetpulse,Czech,Cheap,Financial District,3:05,21:51,3,true
+171,Wordtune,Mediterranean,Cheap,Upper East Side,0:16,16:26,1,true
+172,Fatz,Mediterranean,Average,Hudson Yards,12:23,12:55,5,false
+173,Skajo,Thai,Average,Hudson Yards,12:28,17:02,4,false
+174,Kamba,Mediterranean,Expensive,Upper East Side,17:20,22:32,5,true
+175,Quimm,Indian,Expensive,Financial District,7:08,1:21,4,false
+176,Photospace,Mediterranean,Cheap,Harlem,13:28,22:14,3,false
+177,Kazio,Arabic,Expensive,Soho,19:20,6:58,1,false
+178,Tagpad,Italian,Cheap,Hudson Yards,22:43,21:37,2,true
+179,Quatz,Mediterranean,Cheap,Chelsea,16:54,7:06,1,false
+180,Jetpulse,Italian,Expensive,Chelsea,7:43,17:19,5,true
+181,Topdrive,Arabic,Cheap,Financial District,17:28,20:09,5,false
+182,Plajo,Chinese,Average,Chelsea,20:43,18:00,5,true
+183,Plambee,Chinese,Cheap,Chelsea,11:05,5:53,5,true
+184,Twitterworks,Greek,Expensive,Hudson Yards,0:07,5:40,3,true
+185,Skaboo,Mexican,Expensive,Hudson Yards,14:24,3:04,4,false
+186,Skinix,Italian,Average,Chelsea,15:45,7:05,4,true
+187,Bubblebox,Greek,Expensive,Soho,3:55,1:12,4,true
+188,Zoozzy,Indian,Expensive,Hudson Yards,14:09,22:51,5,true
+189,Youbridge,Italian,Average,Hudson Yards,1:42,6:40,4,true
+190,Bubblebox,Italian,Expensive,East Village,1:25,22:53,1,true
+191,Edgetag,Thai,Average,Hudson Yards,16:26,6:47,4,true
+192,Zava,Mexican,Average,Hudson Yards,0:21,2:48,4,true
+193,Jamia,Thai,Average,Soho,16:04,6:13,2,true
+194,Skiptube,Chinese,Expensive,Financial District,19:29,23:26,1,false
+195,Youopia,Italian,Average,Financial District,3:07,13:07,3,false
+196,Tambee,Arabic,Expensive,Financial District,5:47,11:03,4,true
+197,Meevee,Czech,Expensive,East Village,16:30,15:23,1,true
+198,Chatterpoint,Mediterranean,Average,Chelsea,8:47,0:45,5,true
+199,Jaxspan,Czech,Cheap,Chelsea,21:15,11:48,4,true
+200,Jabberbean,Chinese,Cheap,Upper East Side,7:41,0:28,1,true
+201,Realpoint,Chinese,Cheap,Financial District,16:00,5:06,1,true
+202,Jetpulse,Indian,Expensive,Financial District,10:30,9:29,3,false
+203,Meemm,Indian,Cheap,Harlem,14:32,17:34,2,true
+204,Chatterbridge,Mediterranean,Average,Hudson Yards,22:21,12:16,3,false
+205,Photobug,Indian,Average,Chelsea,4:50,12:39,1,true
+206,Devpulse,Thai,Expensive,Chelsea,23:05,21:29,1,false
+207,Aimbo,Italian,Average,Hudson Yards,15:26,2:30,1,false
+208,Zooveo,Greek,Average,Chelsea,23:33,16:29,2,false
+209,Thoughtstorm,Chinese,Expensive,Soho,23:51,5:31,5,false
+210,Blogspan,Italian,Average,Harlem,4:30,0:50,3,false
+211,Cogidoo,Czech,Average,Financial District,12:48,17:27,2,true
+212,Skippad,Greek,Expensive,East Village,22:25,10:59,3,true
+213,Eadel,Czech,Expensive,Financial District,17:11,14:26,4,false
+214,Twitterbeat,Greek,Average,Upper East Side,21:21,3:13,4,false
+215,Realpoint,Czech,Average,Upper East Side,3:06,20:40,2,false
+216,Oloo,Indian,Average,Chelsea,2:02,16:52,5,false
+217,Skyvu,Mediterranean,Expensive,Hudson Yards,20:34,22:31,5,true
+218,Yakijo,Italian,Average,Chelsea,0:14,16:48,1,false
+219,Oyoba,Chinese,Average,Upper East Side,17:55,13:57,2,false
+220,Kazu,Thai,Average,Hudson Yards,9:02,6:15,1,true
+221,Twitterworks,Greek,Cheap,Upper East Side,3:59,5:11,4,false
+222,Tekfly,Chinese,Expensive,Soho,12:33,14:25,1,true
+223,Kwinu,Italian,Average,Soho,22:24,17:25,5,true
+224,Feedmix,Czech,Cheap,East Village,10:42,11:35,4,true
+225,Voolith,Mediterranean,Expensive,Soho,9:09,19:53,4,true
+226,Jabberbean,Thai,Average,Hudson Yards,13:06,5:28,1,false
+227,Skidoo,Thai,Cheap,Soho,19:23,0:03,4,true
+228,Gabtype,Italian,Expensive,Harlem,23:48,1:06,3,true
+229,Skaboo,Mexican,Cheap,East Village,21:04,21:42,2,true
+230,Bubbletube,Thai,Expensive,Upper East Side,15:48,10:55,3,true
+231,Zoomlounge,Greek,Expensive,Upper East Side,8:46,16:41,4,true
+232,Buzzshare,Czech,Cheap,Harlem,7:29,2:24,5,false
+233,Meevee,Italian,Average,Hudson Yards,19:52,7:58,5,false
+234,Brainverse,Czech,Expensive,Harlem,4:25,6:55,4,true
+235,Devpulse,Czech,Average,East Village,3:31,10:41,2,false
+236,Meejo,Mediterranean,Expensive,Harlem,5:46,22:44,3,true
+237,Pixope,Indian,Average,Upper East Side,12:05,0:42,3,true
+238,Youbridge,Thai,Average,Harlem,17:12,1:52,2,true
+239,Brainverse,Mediterranean,Expensive,Hudson Yards,11:09,0:48,5,false
+240,Buzzdog,Mediterranean,Average,Financial District,16:59,9:23,4,true
+241,Tagopia,Czech,Expensive,East Village,17:26,6:49,5,false
+242,Ozu,Italian,Average,Soho,16:17,21:12,1,false
+243,Yadel,Italian,Cheap,Harlem,17:22,2:25,1,true
+244,Mita,Mediterranean,Cheap,Soho,15:31,15:52,3,true
+245,Oloo,Greek,Cheap,Harlem,4:09,7:02,3,true
+246,Twitterwire,Indian,Expensive,East Village,12:57,22:24,1,true
+247,Thoughtbridge,Chinese,Expensive,Soho,5:12,16:10,4,false
+248,Twimm,Mediterranean,Expensive,Soho,17:44,20:18,2,true
+249,InnoZ,Indian,Expensive,Upper East Side,19:27,4:51,2,false
+250,Yambee,Italian,Cheap,Hudson Yards,15:18,9:33,3,true
+251,Teklist,Mexican,Cheap,Harlem,12:27,2:05,2,true
+252,Centizu,Czech,Expensive,Harlem,0:02,17:51,4,true
+253,Browsecat,Chinese,Average,Harlem,18:26,18:21,5,true
+254,Flashdog,Arabic,Cheap,Harlem,13:13,8:13,2,true
+255,Tazzy,Mexican,Expensive,Hudson Yards,1:27,17:19,2,true
+256,Npath,Thai,Average,Upper East Side,20:19,9:48,3,true
+257,Mynte,Chinese,Average,Harlem,19:07,22:24,5,false
+258,Voonyx,Thai,Average,Financial District,23:21,22:13,3,false
+259,Ainyx,Indian,Cheap,Harlem,3:28,9:21,5,false
+260,Voonix,Thai,Expensive,Hudson Yards,17:28,19:21,4,true
+261,Lajo,Mediterranean,Expensive,Harlem,11:43,18:37,3,true
+262,Rhynoodle,Indian,Cheap,Harlem,9:49,1:22,3,false
+263,Kwideo,Greek,Expensive,East Village,11:49,6:29,5,false
+264,Dabvine,Thai,Average,Financial District,4:16,10:20,3,false
+265,Edgepulse,Italian,Expensive,Hudson Yards,9:27,1:27,3,true
+266,Mudo,Arabic,Cheap,Soho,7:33,22:56,1,true
+267,Camido,Greek,Cheap,Chelsea,0:15,18:55,3,true
+268,Wordify,Arabic,Cheap,Financial District,15:10,8:29,3,true
+269,Babbleset,Greek,Expensive,Soho,9:42,8:57,1,false
+270,JumpXS,Mediterranean,Average,Chelsea,17:10,19:39,2,false
+271,Babbleblab,Thai,Expensive,Hudson Yards,13:16,3:19,3,false
+272,Roombo,Mediterranean,Average,Soho,5:01,2:46,3,false
+273,Trilia,Greek,Cheap,Chelsea,12:31,5:06,5,true
+274,Fadeo,Greek,Cheap,Chelsea,9:17,5:59,4,true
+275,Wordpedia,Greek,Average,Hudson Yards,9:53,4:25,2,true
+276,Jabberbean,Greek,Cheap,Chelsea,8:26,2:46,1,false
+277,Gigazoom,Greek,Cheap,East Village,15:59,8:28,2,false
+278,Agimba,Czech,Average,Financial District,17:59,21:39,1,false
+279,Katz,Greek,Cheap,Harlem,15:16,21:55,3,true
+280,Tanoodle,Czech,Expensive,Soho,1:53,12:04,4,true
+281,Innojam,Thai,Cheap,Hudson Yards,21:45,18:36,3,true
+282,Skaboo,Greek,Average,Harlem,4:14,5:42,4,true
+283,Nlounge,Mediterranean,Cheap,Chelsea,12:49,17:11,1,true
+284,Abata,Arabic,Expensive,Chelsea,10:50,14:03,1,false
+285,Teklist,Arabic,Cheap,Financial District,7:28,3:00,3,true
+286,Wikizz,Thai,Average,Soho,14:09,23:46,2,false
+287,Edgeblab,Greek,Expensive,Chelsea,2:29,20:33,5,true
+288,Youspan,Indian,Cheap,Hudson Yards,3:40,11:11,3,true
+289,Meembee,Chinese,Expensive,Harlem,4:40,4:36,4,false
+290,Skyba,Chinese,Cheap,Hudson Yards,20:19,12:20,5,false
+291,Eayo,Greek,Expensive,East Village,4:35,10:21,4,true
+292,Skimia,Chinese,Expensive,Financial District,1:59,6:50,1,false
+293,Pixope,Italian,Expensive,Financial District,12:03,5:41,4,true
+294,Zoomzone,Arabic,Cheap,Soho,15:58,16:16,2,true
+295,DabZ,Greek,Average,Harlem,7:23,4:30,2,false
+296,Kazio,Thai,Cheap,Financial District,15:58,13:18,5,true
+297,Devbug,Italian,Cheap,Hudson Yards,15:40,1:49,4,false
+298,Skyba,Mexican,Average,East Village,18:19,18:19,4,true
+299,Brainverse,Thai,Cheap,East Village,15:48,20:35,2,true
+300,Yodoo,Czech,Cheap,Hudson Yards,19:14,8:30,5,false
+301,Shufflester,Czech,Average,East Village,18:23,1:54,2,true
+302,Rhycero,Czech,Expensive,East Village,5:15,17:45,1,true
+303,Linkbridge,Greek,Expensive,Upper East Side,11:52,11:29,1,false
+304,Yadel,Czech,Expensive,Chelsea,17:23,7:50,3,true
+305,Wordify,Chinese,Expensive,Harlem,17:05,7:14,5,true
+306,Tagpad,Mexican,Cheap,Chelsea,13:53,18:49,2,true
+307,Chatterpoint,Greek,Cheap,East Village,4:06,3:51,3,false
+308,Edgeblab,Arabic,Average,Hudson Yards,3:18,2:49,3,true
+309,Jabbersphere,Mexican,Expensive,Soho,21:33,8:53,2,false
+310,Twitternation,Italian,Average,East Village,8:25,10:26,5,true
+311,Twinder,Mexican,Average,Upper East Side,11:26,19:11,1,false
+312,Reallinks,Mexican,Average,Soho,17:38,16:14,4,false
+313,Bluejam,Mexican,Cheap,Soho,4:21,14:45,5,true
+314,Riffwire,Mediterranean,Cheap,Chelsea,22:15,5:26,3,false
+315,Thoughtbeat,Indian,Expensive,Harlem,6:45,20:44,1,true
+316,Quire,Czech,Cheap,Hudson Yards,19:02,12:39,3,true
+317,Meevee,Arabic,Cheap,Financial District,23:53,9:55,2,true
+318,Wikivu,Chinese,Expensive,Harlem,3:02,10:49,2,true
+319,Dabvine,Arabic,Cheap,Hudson Yards,3:44,23:06,3,false
+320,Devify,Arabic,Cheap,Hudson Yards,0:38,6:26,4,true
+321,Thoughtblab,Indian,Expensive,Hudson Yards,2:31,14:15,2,false
+322,Npath,Thai,Expensive,Hudson Yards,11:36,7:06,1,true
+323,Voonder,Thai,Cheap,Soho,23:20,18:56,4,false
+324,Buzzbean,Italian,Average,Financial District,15:00,9:53,1,false
+325,Yozio,Mexican,Cheap,Financial District,0:19,10:26,5,true
+326,Skibox,Greek,Expensive,Harlem,16:23,6:43,4,true
+327,Dabfeed,Italian,Average,Soho,17:11,2:20,3,true
+328,Yambee,Mexican,Expensive,Hudson Yards,8:57,17:19,1,false
+329,Zooxo,Arabic,Cheap,East Village,1:03,2:10,3,false
+330,Jaxworks,Czech,Expensive,Upper East Side,23:03,5:48,1,true
+331,Reallinks,Italian,Average,Soho,12:42,3:35,4,false
+332,Vitz,Czech,Cheap,Financial District,11:00,21:47,2,false
+333,Divape,Mexican,Expensive,Upper East Side,10:08,6:43,4,true
+334,Gabcube,Chinese,Cheap,Chelsea,2:05,6:20,1,false
+335,Voonder,Arabic,Average,Harlem,13:55,21:33,3,true
+336,Wikizz,Chinese,Cheap,Harlem,14:41,16:04,4,false
+337,Blognation,Greek,Average,Chelsea,6:18,6:48,1,true
+338,Ooba,Thai,Cheap,Soho,16:05,11:30,2,false
+339,Jayo,Italian,Average,Harlem,5:17,0:04,1,true
+340,DabZ,Czech,Expensive,Soho,7:43,16:14,2,true
+341,Wikizz,Thai,Cheap,Soho,13:04,12:38,2,false
+342,Topiczoom,Greek,Cheap,Harlem,15:01,6:30,2,true
+343,Oyope,Greek,Average,East Village,11:38,12:42,1,true
+344,Zoomlounge,Arabic,Cheap,Harlem,23:10,12:21,1,true
+345,Agimba,Indian,Expensive,Upper East Side,15:48,12:26,4,false
+346,Flashdog,Italian,Expensive,Chelsea,3:05,7:20,3,false
+347,Zooveo,Arabic,Average,Financial District,20:05,23:32,3,false
+348,Skajo,Czech,Cheap,Chelsea,10:02,13:47,3,false
+349,BlogXS,Greek,Expensive,Financial District,23:39,13:47,1,false
+350,Demizz,Czech,Expensive,Hudson Yards,22:36,8:41,4,true
+351,Feednation,Chinese,Cheap,Chelsea,17:55,19:21,3,false
+352,Browsetype,Italian,Average,Soho,17:07,3:16,1,false
+353,Buzzshare,Chinese,Expensive,Chelsea,14:03,19:07,5,false
+354,Plajo,Chinese,Expensive,Upper East Side,23:33,18:29,5,false
+355,Kanoodle,Arabic,Average,Financial District,21:24,4:56,2,false
+356,Dabjam,Czech,Expensive,East Village,15:29,16:06,2,false
+357,Jatri,Greek,Cheap,Financial District,21:53,4:24,2,true
+358,Skilith,Mexican,Average,Harlem,11:52,22:58,1,false
+359,Zoomzone,Arabic,Cheap,East Village,16:03,3:11,2,true
+360,Babblestorm,Arabic,Cheap,Hudson Yards,14:11,8:52,4,false
+361,Yodo,Indian,Average,Financial District,1:24,20:12,4,true
+362,Eare,Greek,Cheap,Harlem,11:28,2:46,5,false
+363,Midel,Italian,Expensive,Soho,11:25,11:17,2,true
+364,Ntags,Mediterranean,Cheap,Hudson Yards,17:20,9:18,3,true
+365,Skalith,Indian,Expensive,East Village,8:21,12:26,2,true
+366,Livetube,Indian,Average,Chelsea,13:52,21:35,2,true
+367,Feedbug,Chinese,Average,Soho,17:36,1:53,5,false
+368,Photofeed,Arabic,Average,Financial District,7:46,17:08,4,true
+369,Tanoodle,Czech,Average,Upper East Side,2:49,0:08,2,true
+370,Fadeo,Mediterranean,Cheap,Hudson Yards,23:04,0:09,4,true
+371,Oyondu,Thai,Average,Harlem,9:03,0:14,3,true
+372,Dynabox,Mexican,Expensive,Upper East Side,6:51,9:17,3,false
+373,Centimia,Chinese,Expensive,Upper East Side,8:05,17:51,2,true
+374,Oyoba,Mediterranean,Cheap,Upper East Side,20:00,9:04,4,false
+375,Quamba,Chinese,Cheap,Harlem,19:26,21:51,1,false
+376,Twitterlist,Mediterranean,Expensive,Financial District,20:21,1:23,5,true
+377,Realblab,Greek,Average,Harlem,22:35,20:24,3,true
+378,Wordware,Mexican,Average,East Village,23:49,11:23,4,false
+379,Kwinu,Indian,Expensive,East Village,17:34,22:31,4,true
+380,Talane,Chinese,Cheap,Financial District,3:31,10:18,2,false
+381,Brightbean,Thai,Average,Upper East Side,9:58,3:30,2,true
+382,Snaptags,Czech,Average,Hudson Yards,21:35,5:33,1,true
+383,Thoughtmix,Indian,Expensive,Chelsea,15:46,6:29,5,true
+384,Skyba,Thai,Average,Soho,15:36,12:25,2,true
+385,Aibox,Greek,Cheap,Upper East Side,5:54,23:48,5,true
+386,Mybuzz,Mediterranean,Expensive,Harlem,8:22,5:42,1,true
+387,Devshare,Thai,Expensive,Chelsea,19:03,16:00,1,true
+388,Mynte,Indian,Average,Chelsea,11:34,20:04,3,false
+389,Pixoboo,Arabic,Expensive,Hudson Yards,3:42,5:47,2,true
+390,Gigazoom,Mexican,Expensive,Financial District,12:03,14:18,4,true
+391,Chatterpoint,Czech,Expensive,Soho,20:54,3:15,2,true
+392,Voolith,Mexican,Average,Chelsea,21:28,19:34,4,false
+393,Browsecat,Indian,Expensive,Harlem,7:53,10:41,3,true
+394,Quinu,Czech,Average,Financial District,12:56,13:58,1,true
+395,Topicware,Indian,Expensive,Soho,8:16,20:20,5,true
+396,Feedfish,Italian,Average,Hudson Yards,3:09,18:44,4,true
+397,Zava,Indian,Average,Soho,3:37,10:24,3,false
+398,Zooveo,Chinese,Expensive,Harlem,6:27,13:59,2,false
+399,Oyoba,Chinese,Average,Upper East Side,23:33,3:27,4,false
+400,Rooxo,Czech,Average,Chelsea,9:56,1:23,5,true
+401,Bluezoom,Greek,Expensive,Chelsea,23:10,19:06,4,false
+402,Twimm,Italian,Expensive,Upper East Side,19:11,14:26,4,false
+403,Camimbo,Greek,Expensive,Soho,18:35,8:25,2,false
+404,Fivebridge,Greek,Average,Soho,15:55,6:01,5,true
+405,Buzzshare,Chinese,Average,East Village,7:45,20:06,5,false
+406,Kwimbee,Czech,Expensive,Soho,12:22,1:08,4,true
+407,Fivebridge,Thai,Cheap,Hudson Yards,22:18,15:13,1,false
+408,Twinte,Greek,Cheap,Chelsea,1:34,16:02,2,false
+409,Fatz,Mediterranean,Expensive,Chelsea,20:21,4:14,4,true
+410,Trupe,Thai,Expensive,Chelsea,18:49,23:50,5,false
+411,Oyope,Arabic,Expensive,East Village,17:35,10:27,1,false
+412,Centimia,Arabic,Expensive,Hudson Yards,11:45,11:24,4,true
+413,Oyoloo,Thai,Expensive,Chelsea,18:47,8:08,4,false
+414,Rhyzio,Thai,Average,East Village,21:17,5:24,5,true
+415,Wikido,Indian,Cheap,Upper East Side,12:11,19:25,4,true
+416,Flipbug,Greek,Average,Financial District,3:13,19:25,5,false
+417,Zoombox,Indian,Average,East Village,18:52,22:18,1,true
+418,Shufflebeat,Mediterranean,Cheap,Upper East Side,18:18,18:48,4,false
+419,Lazz,Arabic,Expensive,Financial District,5:28,4:09,3,true
+420,Meembee,Mediterranean,Average,Upper East Side,3:27,8:00,2,false
+421,Brightdog,Italian,Expensive,Hudson Yards,3:13,20:56,3,false
+422,Zoovu,Arabic,Cheap,Financial District,15:22,9:42,1,false
+423,Kazu,Czech,Expensive,Hudson Yards,19:45,9:22,4,false
+424,Centizu,Thai,Expensive,East Village,12:10,11:02,3,false
+425,Eadel,Mexican,Expensive,Hudson Yards,16:12,7:21,2,true
+426,Mycat,Mexican,Cheap,Soho,12:07,1:46,1,false
+427,Agivu,Italian,Expensive,East Village,9:17,14:00,2,false
+428,Browsezoom,Chinese,Cheap,Upper East Side,21:37,10:42,3,false
+429,Zoozzy,Thai,Expensive,Harlem,11:52,8:33,1,true
+430,Voolia,Italian,Average,Upper East Side,0:23,14:23,5,true
+431,Fivebridge,Greek,Average,Upper East Side,19:54,12:54,1,true
+432,Shuffletag,Chinese,Cheap,Upper East Side,10:28,7:48,4,false
+433,Zoonder,Greek,Cheap,Hudson Yards,17:12,18:10,5,false
+434,Innotype,Arabic,Expensive,Hudson Yards,7:34,17:53,5,true
+435,Brainverse,Chinese,Cheap,Upper East Side,4:33,0:39,2,true
+436,Feedspan,Chinese,Average,Financial District,13:52,21:10,2,false
+437,Gabcube,Czech,Expensive,East Village,18:47,3:38,3,false
+438,Jamia,Chinese,Cheap,Chelsea,13:54,16:03,2,false
+439,Blogpad,Greek,Cheap,Upper East Side,23:02,16:14,2,false
+440,Fanoodle,Czech,Expensive,Upper East Side,19:15,13:43,3,true
+441,Topiczoom,Indian,Average,East Village,17:26,3:26,2,true
+442,Flipbug,Mexican,Average,Upper East Side,16:45,1:24,2,true
+443,Wikibox,Arabic,Cheap,Harlem,18:10,6:34,5,true
+444,Twiyo,Arabic,Expensive,Harlem,22:31,21:28,1,true
+445,Tagcat,Chinese,Expensive,Chelsea,10:19,1:05,4,false
+446,Photobean,Italian,Average,Soho,5:38,10:22,1,true
+447,Gabspot,Mexican,Cheap,Hudson Yards,9:01,0:02,1,true
+448,Skyble,Mexican,Cheap,Soho,4:29,11:34,2,true
+449,Wikibox,Thai,Expensive,Chelsea,1:28,17:20,2,true
+450,Kayveo,Thai,Cheap,Harlem,0:01,8:21,4,true
+451,Skajo,Chinese,Average,Financial District,9:04,18:31,4,true
+452,Ozu,Italian,Cheap,Harlem,18:25,16:14,5,false
+453,Dynabox,Chinese,Expensive,Hudson Yards,22:19,13:31,2,true
+454,Plajo,Indian,Cheap,Chelsea,0:49,2:10,5,false
+455,Dazzlesphere,Chinese,Expensive,Soho,7:30,1:12,3,false
+456,Realbridge,Italian,Expensive,Financial District,23:47,18:05,3,true
+457,Feedfish,Greek,Average,Upper East Side,8:12,18:03,2,false
+458,Yodel,Thai,Expensive,Hudson Yards,13:38,13:06,1,false
+459,Abata,Mexican,Average,Financial District,11:26,11:57,3,false
+460,Kwimbee,Indian,Expensive,Harlem,5:15,16:03,4,false
+461,Demizz,Thai,Cheap,Soho,14:25,6:40,5,false
+462,Eare,Mediterranean,Average,Hudson Yards,23:43,8:21,2,false
+463,DabZ,Mexican,Expensive,Harlem,8:27,0:48,3,false
+464,Yakijo,Mexican,Expensive,Hudson Yards,1:40,10:02,1,false
+465,Buzzbean,Italian,Average,Soho,16:36,20:29,1,false
+466,Jabbersphere,Mexican,Expensive,Hudson Yards,22:42,15:55,4,true
+467,Pixonyx,Indian,Cheap,Soho,5:07,21:18,5,true
+468,Blogtag,Mexican,Average,Soho,6:38,22:00,1,true
+469,Meevee,Arabic,Expensive,Chelsea,8:19,9:12,3,true
+470,Blogspan,Mediterranean,Expensive,Soho,15:36,23:19,1,false
+471,Npath,Arabic,Average,Upper East Side,1:46,8:58,5,true
+472,Trilith,Arabic,Cheap,East Village,0:29,23:37,3,false
+473,Rhycero,Italian,Expensive,Financial District,3:56,3:09,1,true
+474,Dynabox,Chinese,Average,Hudson Yards,0:51,9:13,2,true
+475,Browsetype,Italian,Average,Financial District,4:29,17:29,3,true
+476,Dablist,Mediterranean,Cheap,Soho,2:13,9:36,1,true
+477,Meevee,Mexican,Expensive,Financial District,12:19,9:37,2,false
+478,Fivespan,Greek,Expensive,Harlem,2:04,17:37,2,true
+479,Gabvine,Chinese,Cheap,Harlem,11:04,9:27,3,true
+480,Buzzdog,Greek,Cheap,Harlem,20:15,14:29,1,false
+481,Browseblab,Arabic,Cheap,Harlem,22:13,17:13,3,true
+482,Ooba,Arabic,Average,East Village,15:49,10:18,3,true
+483,Tagpad,Czech,Cheap,Harlem,17:20,17:14,2,true
+484,Skalith,Arabic,Cheap,East Village,21:42,3:36,2,true
+485,Babbleset,Czech,Average,Hudson Yards,21:57,19:16,1,true
+486,Thoughtstorm,Arabic,Average,Harlem,4:46,6:31,3,false
+487,Talane,Chinese,Expensive,Chelsea,19:38,15:45,3,true
+488,Skibox,Czech,Average,Upper East Side,0:06,3:25,4,false
+489,Brightdog,Czech,Expensive,Financial District,4:48,7:19,1,false
+490,Gabvine,Mediterranean,Average,Chelsea,17:42,8:22,2,true
+491,Minyx,Arabic,Expensive,Upper East Side,2:26,7:17,3,false
+492,Twimbo,Czech,Cheap,Chelsea,12:57,10:33,2,true
+493,Blogtags,Mediterranean,Expensive,East Village,4:42,0:23,2,true
+494,Jaloo,Arabic,Cheap,Hudson Yards,15:10,2:34,2,false
+495,Devbug,Czech,Cheap,East Village,8:26,7:26,3,true
+496,Voonder,Indian,Cheap,Soho,4:29,14:12,1,true
+497,Devshare,Czech,Cheap,Harlem,23:51,6:47,5,false
+498,Roodel,Indian,Average,Hudson Yards,23:21,5:44,2,true
+499,Thoughtmix,Chinese,Average,Harlem,23:07,0:08,2,false
+500,Flipopia,Chinese,Expensive,East Village,11:04,14:26,3,true
+501,Abata,Mexican,Expensive,Financial District,10:54,10:26,4,false
+502,Zoombeat,Chinese,Cheap,Soho,14:42,21:53,4,false
+503,Meeveo,Arabic,Average,East Village,4:25,17:49,4,true
+504,Yakidoo,Mexican,Cheap,East Village,13:46,7:47,5,false
+505,Oyondu,Arabic,Average,Chelsea,18:27,19:29,5,false
+506,Blogspan,Italian,Cheap,Harlem,0:21,19:40,5,false
+507,Tagcat,Thai,Expensive,Upper East Side,20:08,2:53,1,false
+508,Plambee,Indian,Cheap,Hudson Yards,13:39,19:53,1,false
+509,Quatz,Czech,Cheap,Soho,11:38,0:30,1,false
+510,Quaxo,Arabic,Average,Upper East Side,22:01,14:45,2,true
+511,Latz,Mexican,Expensive,Soho,22:54,16:26,3,false
+512,Quimba,Greek,Cheap,Upper East Side,8:28,20:56,3,true
+513,Kwideo,Italian,Cheap,Upper East Side,21:04,16:51,2,false
+514,Innotype,Arabic,Expensive,Financial District,0:02,23:22,4,false
+515,Eamia,Czech,Cheap,Upper East Side,22:07,4:41,4,true
+516,Muxo,Chinese,Average,Hudson Yards,1:10,20:11,3,true
+517,Katz,Mediterranean,Average,East Village,4:44,12:34,4,false
+518,Quimba,Greek,Expensive,Harlem,1:33,4:43,5,false
+519,Kare,Mexican,Cheap,Hudson Yards,16:31,0:38,5,false
+520,Skinte,Chinese,Average,Chelsea,10:48,13:39,5,false
+521,Jabbercube,Mexican,Average,East Village,23:30,4:40,1,false
+522,InnoZ,Mexican,Expensive,East Village,0:23,16:45,1,false
+523,Vidoo,Arabic,Expensive,Harlem,14:44,6:32,5,false
+524,Zoonoodle,Indian,Expensive,Hudson Yards,2:38,15:16,3,false
+525,Miboo,Mediterranean,Expensive,Hudson Yards,12:12,11:25,4,false
+526,Bubbletube,Greek,Cheap,East Village,12:49,19:18,2,false
+527,Browsebug,Mexican,Average,East Village,19:33,4:27,5,true
+528,Ntag,Chinese,Average,Chelsea,0:37,9:49,4,true
+529,Topdrive,Chinese,Cheap,Chelsea,2:37,0:30,3,true
+530,Quire,Thai,Average,Harlem,15:53,22:45,4,true
+531,Quamba,Italian,Expensive,Soho,13:50,10:07,5,false
+532,Bubblemix,Arabic,Average,Harlem,19:55,20:44,5,true
+533,Edgeclub,Mexican,Expensive,Harlem,2:15,21:44,5,false
+534,Cogidoo,Mediterranean,Average,Upper East Side,13:54,4:15,1,true
+535,Izio,Italian,Cheap,East Village,21:16,18:28,2,true
+536,Fivespan,Indian,Cheap,Harlem,22:49,7:18,4,false
+537,Topicstorm,Arabic,Expensive,Harlem,19:08,16:33,2,true
+538,Thoughtstorm,Mediterranean,Cheap,Hudson Yards,3:55,19:13,2,false
+539,Wordtune,Italian,Average,Harlem,5:21,12:19,4,true
+540,Mudo,Czech,Expensive,Soho,20:16,0:00,3,true
+541,Riffwire,Chinese,Expensive,Chelsea,11:26,16:12,3,false
+542,Browsecat,Arabic,Cheap,East Village,10:12,16:27,5,true
+543,Jatri,Thai,Cheap,Chelsea,14:22,7:04,4,true
+544,Blogspan,Indian,Average,Harlem,22:42,3:20,2,true
+545,Eamia,Thai,Expensive,Harlem,7:03,2:18,2,false
+546,Jazzy,Mexican,Cheap,Soho,12:20,6:55,4,true
+547,Jayo,Czech,Cheap,Upper East Side,22:55,12:23,5,false
+548,Gabvine,Greek,Average,Financial District,5:13,17:41,1,true
+549,Babblestorm,Thai,Average,East Village,0:51,22:14,1,false
+550,Camimbo,Italian,Expensive,Soho,4:51,0:17,1,true
+551,Yodo,Italian,Expensive,Harlem,19:27,13:03,2,false
+552,Kazu,Thai,Expensive,Hudson Yards,13:20,1:42,4,false
+553,Oyoba,Thai,Cheap,Soho,18:44,16:14,3,false
+554,Edgewire,Mexican,Average,Chelsea,5:38,19:42,4,false
+555,Photobug,Thai,Average,Upper East Side,14:09,15:23,5,true
+556,Chatterbridge,Greek,Cheap,Financial District,12:00,10:30,5,false
+557,Meejo,Mediterranean,Average,Soho,16:37,19:51,2,false
+558,Trudoo,Italian,Expensive,Financial District,12:16,17:03,2,false
+559,Jabbercube,Arabic,Expensive,Soho,14:50,9:05,2,true
+560,Edgewire,Indian,Average,Financial District,0:08,18:37,1,false
+561,Trilia,Indian,Expensive,Harlem,0:40,14:24,4,true
+562,Blogtag,Czech,Cheap,Financial District,12:34,18:36,3,false
+563,Tazzy,Czech,Average,Chelsea,21:50,5:09,1,false
+564,Twitterbeat,Arabic,Cheap,Hudson Yards,8:10,20:28,1,false
+565,Skyba,Greek,Average,East Village,10:44,2:52,4,false
+566,Gabtune,Chinese,Cheap,Financial District,22:30,12:17,1,true
+567,Kazu,Arabic,Cheap,Soho,22:29,11:55,5,true
+568,Browsebug,Mexican,Cheap,Soho,7:16,22:14,2,false
+569,Skimia,Italian,Average,Soho,10:52,15:33,5,false
+570,Trudoo,Mediterranean,Cheap,Upper East Side,23:49,18:44,4,true
+571,Abata,Czech,Average,Chelsea,6:04,1:54,5,false
+572,Livepath,Mediterranean,Average,Soho,1:11,12:38,2,true
+573,Topdrive,Italian,Cheap,Financial District,5:12,17:27,5,true
+574,Linkbridge,Czech,Expensive,Hudson Yards,20:58,17:01,3,false
+575,Vidoo,Italian,Expensive,Upper East Side,4:25,0:01,3,false
+576,Gevee,Italian,Average,Harlem,19:12,9:38,3,false
+577,Gigashots,Italian,Cheap,Chelsea,13:02,1:56,1,false
+578,Blogpad,Italian,Cheap,Upper East Side,8:18,9:39,4,false
+579,Blogtags,Thai,Cheap,Hudson Yards,11:46,22:49,1,true
+580,Chatterpoint,Mexican,Cheap,Hudson Yards,5:10,9:14,2,true
+581,Layo,Mediterranean,Cheap,Financial District,17:32,12:31,1,true
+582,Topicware,Czech,Cheap,Chelsea,10:11,0:36,3,false
+583,Jabbertype,Thai,Cheap,Hudson Yards,21:01,18:51,1,false
+584,Midel,Czech,Average,Soho,3:23,23:52,2,false
+585,Topicshots,Italian,Expensive,Chelsea,20:16,12:55,1,false
+586,Demizz,Mexican,Average,East Village,10:52,6:41,5,true
+587,Gabtune,Indian,Expensive,Chelsea,7:37,10:56,4,false
+588,Feedspan,Arabic,Cheap,Soho,21:35,14:57,1,false
+589,Mydeo,Greek,Expensive,Harlem,10:04,9:30,1,true
+590,Photobug,Italian,Average,East Village,12:21,14:21,3,false
+591,Centidel,Arabic,Expensive,East Village,13:14,2:54,3,true
+592,Jabbersphere,Chinese,Average,Hudson Yards,19:59,1:27,4,true
+593,Jabberbean,Arabic,Expensive,Financial District,15:43,4:01,3,true
+594,Layo,Greek,Expensive,Upper East Side,5:41,22:52,2,true
+595,Realcube,Chinese,Cheap,Hudson Yards,23:48,6:28,1,true
+596,Dazzlesphere,Indian,Average,Soho,6:29,12:48,5,true
+597,Jayo,Mediterranean,Average,Soho,1:44,7:06,4,true
+598,Youtags,Mexican,Average,Chelsea,21:32,8:39,1,true
+599,Skinder,Mexican,Expensive,Soho,22:55,21:52,1,false
+600,Linklinks,Indian,Average,East Village,20:22,5:33,1,true
+601,Skidoo,Mexican,Expensive,Hudson Yards,2:33,16:59,1,true
+602,Tagtune,Thai,Cheap,Upper East Side,5:27,16:32,2,true
+603,Centidel,Greek,Average,Financial District,11:47,14:00,3,false
+604,Realfire,Mexican,Cheap,Upper East Side,11:03,18:30,5,true
+605,Avamba,Thai,Average,Hudson Yards,8:05,12:47,3,false
+606,Babblestorm,Thai,Cheap,East Village,3:29,1:23,2,false
+607,Quamba,Greek,Expensive,Upper East Side,22:00,10:28,2,false
+608,Zoombeat,Italian,Expensive,Upper East Side,11:26,9:11,3,false
+609,Avavee,Arabic,Expensive,Harlem,21:15,9:23,4,true
+610,Zoomdog,Chinese,Expensive,Hudson Yards,3:54,7:28,4,true
+611,Fivechat,Arabic,Cheap,Hudson Yards,23:29,10:26,5,true
+612,Kamba,Thai,Average,Harlem,5:23,20:27,1,false
+613,Oloo,Chinese,Average,Harlem,17:18,9:31,1,true
+614,Quatz,Greek,Cheap,Soho,20:28,12:09,5,false
+615,Dabvine,Greek,Expensive,Financial District,21:42,15:38,5,true
+616,Miboo,Mediterranean,Average,Hudson Yards,1:49,14:00,3,false
+617,Izio,Thai,Expensive,Harlem,20:17,17:55,4,true
+618,Jayo,Chinese,Cheap,East Village,21:11,6:17,3,true
+619,DabZ,Arabic,Cheap,Chelsea,3:07,17:39,3,false
+620,Avamm,Thai,Average,Financial District,13:18,21:34,2,true
+621,Zoonoodle,Italian,Expensive,Hudson Yards,14:02,7:07,4,true
+622,Bubbletube,Thai,Cheap,Harlem,7:40,20:17,4,true
+623,Mynte,Thai,Expensive,Harlem,8:37,2:56,2,false
+624,Jaloo,Italian,Expensive,Upper East Side,18:16,4:25,5,true
+625,Eabox,Thai,Cheap,Chelsea,18:25,9:38,5,false
+626,Oba,Thai,Average,Chelsea,22:50,23:04,2,false
+627,Jamia,Mexican,Expensive,Hudson Yards,1:07,10:05,4,false
+628,Skibox,Indian,Cheap,East Village,7:58,8:11,3,false
+629,Browseblab,Indian,Expensive,Hudson Yards,4:22,23:48,2,true
+630,Twitterbeat,Greek,Average,Soho,6:47,0:19,3,true
+631,Linktype,Italian,Average,Harlem,3:19,23:13,3,true
+632,Thoughtbeat,Greek,Expensive,Harlem,19:31,10:37,1,true
+633,Mydo,Mexican,Cheap,Harlem,6:15,18:22,1,true
+634,Buzzdog,Greek,Average,Soho,6:57,7:39,4,true
+635,Brainlounge,Czech,Expensive,Upper East Side,1:58,6:12,1,true
+636,Demizz,Mediterranean,Cheap,Soho,14:17,13:23,1,true
+637,Twitterlist,Chinese,Average,Hudson Yards,1:40,10:53,2,true
+638,Voomm,Mediterranean,Cheap,East Village,1:45,10:08,3,false
+639,Youbridge,Greek,Expensive,Soho,2:39,18:51,1,false
+640,Tazzy,Indian,Expensive,Soho,5:10,1:19,4,false
+641,Blogtag,Indian,Expensive,Financial District,18:50,23:41,1,false
+642,Realbuzz,Chinese,Expensive,Soho,21:02,14:05,3,true
+643,Eazzy,Thai,Expensive,Financial District,1:27,17:43,5,false
+644,Ailane,Thai,Cheap,Soho,3:07,13:07,2,true
+645,Skyble,Indian,Cheap,Upper East Side,12:16,23:08,2,true
+646,Ooba,Czech,Average,Hudson Yards,23:52,12:36,1,true
+647,Fatz,Italian,Expensive,Harlem,2:09,20:11,5,false
+648,Devpoint,Chinese,Expensive,Financial District,21:58,3:37,5,true
+649,BlogXS,Thai,Expensive,Chelsea,6:05,4:14,1,false
+650,Demivee,Mexican,Expensive,Soho,8:32,5:52,2,true
+651,Trunyx,Indian,Average,Financial District,19:41,17:08,1,true
+652,Browsebug,Chinese,Cheap,Financial District,12:19,14:42,4,false
+653,Dynava,Indian,Expensive,East Village,1:41,16:27,5,false
+654,Wikizz,Chinese,Expensive,Financial District,1:28,23:08,3,false
+655,Plajo,Italian,Average,Chelsea,18:39,18:48,1,true
+656,Divavu,Italian,Expensive,Harlem,14:33,2:00,3,true
+657,Gigazoom,Mediterranean,Expensive,Chelsea,6:55,15:43,2,true
+658,Yakitri,Indian,Expensive,Soho,23:20,20:56,2,true
+659,Mydo,Thai,Cheap,Upper East Side,21:04,4:22,2,true
+660,Agimba,Mexican,Cheap,Hudson Yards,16:53,9:03,4,false
+661,Fivechat,Chinese,Cheap,Soho,0:29,13:03,2,false
+662,Youspan,Thai,Expensive,Upper East Side,5:05,19:46,4,true
+663,Fliptune,Mediterranean,Cheap,East Village,4:29,23:30,5,false
+664,Voonix,Greek,Average,East Village,4:50,12:01,2,true
+665,Edgeclub,Italian,Expensive,Soho,19:14,3:59,5,false
+666,Demizz,Thai,Average,East Village,19:14,22:20,1,true
+667,Trudoo,Thai,Cheap,East Village,23:02,17:47,3,false
+668,Plambee,Czech,Expensive,Chelsea,15:47,20:43,3,true
+669,Buzzbean,Czech,Average,Harlem,10:09,16:57,2,false
+670,Skimia,Greek,Expensive,Chelsea,23:52,2:25,4,true
+671,Avavee,Greek,Average,Chelsea,7:36,12:43,5,true
+672,Dablist,Indian,Expensive,Financial District,12:07,13:38,4,true
+673,Flipbug,Chinese,Expensive,Financial District,21:04,3:23,2,true
+674,Buzzdog,Italian,Average,Upper East Side,9:48,5:56,1,true
+675,Yacero,Czech,Average,Soho,7:49,3:00,3,false
+676,LiveZ,Arabic,Cheap,Financial District,8:31,20:47,5,true
+677,Dabjam,Italian,Cheap,Harlem,18:10,8:00,4,true
+678,Omba,Mediterranean,Average,Soho,12:22,15:30,4,true
+679,Topicblab,Italian,Cheap,Harlem,22:29,14:29,2,false
+680,Feedmix,Czech,Expensive,Upper East Side,3:27,10:23,1,false
+681,Jabberbean,Czech,Average,Upper East Side,18:55,20:19,3,false
+682,Jaxbean,Mediterranean,Cheap,East Village,19:28,22:27,1,false
+683,Quatz,Arabic,Expensive,Upper East Side,9:03,2:43,3,true
+684,Thoughtworks,Italian,Average,Financial District,11:52,14:39,3,false
+685,Yabox,Indian,Cheap,Hudson Yards,7:46,19:00,2,true
+686,Fatz,Chinese,Expensive,Hudson Yards,3:00,0:17,4,false
+687,Voonder,Mexican,Expensive,Hudson Yards,1:04,3:59,5,false
+688,Eazzy,Greek,Average,East Village,8:59,0:41,4,true
+689,Dabfeed,Mediterranean,Expensive,East Village,10:55,8:42,1,true
+690,Trilia,Thai,Expensive,Financial District,16:05,0:04,3,true
+691,Fivespan,Greek,Expensive,Upper East Side,19:02,0:30,5,true
+692,Wordware,Indian,Cheap,East Village,8:36,17:18,3,false
+693,Tagchat,Czech,Expensive,Financial District,8:23,18:12,1,false
+694,Plajo,Indian,Average,East Village,11:41,23:31,5,false
+695,Fanoodle,Thai,Average,Chelsea,13:13,16:46,5,false
+696,Yadel,Indian,Expensive,Financial District,13:58,20:53,2,true
+697,JumpXS,Thai,Expensive,East Village,13:57,7:43,2,true
+698,Dabshots,Chinese,Expensive,Harlem,16:30,6:38,2,false
+699,Thoughtsphere,Thai,Cheap,Financial District,10:12,16:00,5,false
+700,Jabbersphere,Chinese,Cheap,Upper East Side,11:58,17:20,1,true
+701,Quire,Indian,Cheap,Financial District,15:50,13:40,2,true
+702,Oyonder,Arabic,Cheap,East Village,3:51,11:50,2,true
+703,Twitterwire,Indian,Expensive,East Village,14:57,0:12,3,false
+704,Edgepulse,Greek,Cheap,East Village,8:11,2:31,1,true
+705,Voonyx,Arabic,Expensive,Soho,4:36,11:11,3,false
+706,Oba,Greek,Cheap,Hudson Yards,13:37,22:40,2,false
+707,Jabbertype,Italian,Average,Financial District,8:14,2:27,3,false
+708,Realblab,Greek,Average,Harlem,15:54,3:26,3,true
+709,Dabjam,Chinese,Cheap,Chelsea,22:49,23:09,5,true
+710,Meezzy,Chinese,Expensive,Hudson Yards,14:21,22:47,3,false
+711,Gigaclub,Mexican,Cheap,East Village,13:01,3:53,4,false
+712,Geba,Thai,Cheap,East Village,0:05,9:54,5,false
+713,Eadel,Czech,Average,East Village,12:14,7:19,4,false
+714,Zoomdog,Mediterranean,Average,Financial District,13:39,0:48,1,true
+715,Thoughtsphere,Thai,Average,Financial District,2:31,19:29,1,true
+716,Zoonoodle,Indian,Expensive,Soho,19:20,9:55,4,true
+717,Kanoodle,Italian,Cheap,Upper East Side,22:04,2:48,1,true
+718,Oyonder,Chinese,Average,Upper East Side,14:27,10:50,3,false
+719,Bubbletube,Thai,Expensive,Financial District,11:45,1:38,4,true
+720,Realblab,Mexican,Average,Financial District,4:26,14:15,1,true
+721,DabZ,Thai,Cheap,Harlem,0:10,23:46,2,false
+722,Feedmix,Thai,Expensive,Harlem,10:52,22:17,3,true
+723,Eidel,Indian,Expensive,Harlem,13:29,4:58,1,true
+724,Mydeo,Greek,Expensive,Harlem,2:29,2:18,1,true
+725,Realbuzz,Greek,Expensive,Soho,19:14,5:32,1,true
+726,Fivechat,Arabic,Cheap,East Village,0:56,0:45,4,false
+727,Edgeify,Thai,Expensive,Chelsea,5:24,23:23,5,false
+728,Cogibox,Mexican,Expensive,Soho,17:07,23:46,2,true
+729,Pixope,Mediterranean,Average,Upper East Side,12:09,3:37,2,false
+730,Shuffledrive,Mediterranean,Average,Harlem,17:42,17:56,5,false
+731,Abata,Mediterranean,Cheap,Hudson Yards,16:38,5:01,4,false
+732,Topiczoom,Mexican,Cheap,Soho,12:32,22:56,3,false
+733,Realmix,Indian,Cheap,Financial District,20:20,0:49,2,false
+734,Dabshots,Mexican,Cheap,East Village,10:20,17:34,4,false
+735,Shuffletag,Indian,Expensive,Financial District,10:01,6:17,4,true
+736,Aimbu,Italian,Cheap,Hudson Yards,11:13,4:59,4,true
+737,LiveZ,Italian,Average,Hudson Yards,8:49,17:56,2,false
+738,Devcast,Czech,Cheap,Harlem,12:59,8:20,3,false
+739,Yodel,Mexican,Expensive,Upper East Side,6:44,8:22,5,false
+740,Realmix,Mexican,Expensive,Upper East Side,2:50,19:02,3,false
+741,Oyoyo,Greek,Average,East Village,16:08,15:31,3,true
+742,Flashspan,Italian,Cheap,East Village,22:59,5:41,5,false
+743,Pixoboo,Thai,Expensive,Chelsea,21:25,8:43,2,false
+744,Gabcube,Chinese,Cheap,Harlem,9:45,13:38,2,false
+745,Realpoint,Thai,Cheap,Chelsea,20:41,5:51,5,true
+746,Skalith,Chinese,Cheap,Financial District,20:12,14:50,3,false
+747,Layo,Indian,Average,Soho,3:10,7:13,2,true
+748,Izio,Italian,Cheap,Upper East Side,0:26,21:43,3,false
+749,Aimbu,Mediterranean,Cheap,Hudson Yards,9:20,19:51,4,true
+750,Viva,Mediterranean,Cheap,Hudson Yards,2:10,5:24,2,true
+751,Skilith,Mediterranean,Cheap,Hudson Yards,6:10,4:31,5,false
+752,Topicware,Chinese,Cheap,Financial District,18:02,19:58,2,false
+753,Reallinks,Chinese,Average,Financial District,15:37,4:34,5,true
+754,Wikizz,Italian,Expensive,Hudson Yards,10:01,14:35,1,false
+755,Brainbox,Greek,Average,East Village,7:51,7:29,5,false
+756,Trunyx,Arabic,Expensive,East Village,22:45,17:54,1,true
+757,Realblab,Mediterranean,Cheap,Financial District,19:59,15:55,5,false
+758,Twitterbridge,Indian,Cheap,Upper East Side,14:11,8:48,4,false
+759,Kanoodle,Greek,Expensive,Upper East Side,9:55,15:51,2,false
+760,Linkbuzz,Chinese,Cheap,East Village,7:38,17:04,4,false
+761,Jaloo,Mexican,Average,Harlem,19:56,9:19,5,true
+762,Linktype,Mediterranean,Cheap,East Village,23:01,8:26,5,true
+763,Divape,Thai,Cheap,Upper East Side,8:54,13:32,5,false
+764,Katz,Arabic,Expensive,East Village,11:43,16:48,4,false
+765,Meevee,Arabic,Expensive,Soho,13:08,6:35,4,false
+766,Vimbo,Mediterranean,Cheap,East Village,1:46,21:58,1,false
+767,Oba,Thai,Cheap,Chelsea,15:54,23:15,4,false
+768,Riffwire,Chinese,Cheap,Harlem,19:21,1:08,2,false
+769,Livefish,Arabic,Cheap,Financial District,16:54,0:38,3,true
+770,Feedspan,Italian,Cheap,East Village,18:37,6:59,5,false
+771,Jetwire,Italian,Expensive,East Village,15:24,17:02,1,false
+772,Plambee,Indian,Average,Financial District,7:26,20:41,5,false
+773,Gevee,Czech,Average,Financial District,6:13,9:42,4,false
+774,Dabshots,Arabic,Cheap,Harlem,18:02,11:49,5,true
+775,Topiclounge,Chinese,Expensive,Financial District,17:24,23:26,3,true
+776,Fanoodle,Greek,Cheap,Soho,16:27,8:00,4,true
+777,Lazzy,Indian,Average,Harlem,12:22,10:10,1,false
+778,Topicware,Czech,Expensive,East Village,6:54,10:03,1,true
+779,Twinte,Italian,Average,Soho,12:19,0:37,5,true
+780,Rhycero,Mexican,Average,Soho,11:01,15:15,1,true
+781,Trunyx,Italian,Cheap,Harlem,22:54,4:47,5,true
+782,Divavu,Greek,Cheap,Financial District,12:55,17:41,1,false
+783,Vitz,Greek,Cheap,Harlem,16:26,14:54,5,true
+784,Trupe,Chinese,Average,Financial District,12:32,5:51,4,true
+785,Voonte,Italian,Expensive,Soho,12:20,16:25,5,true
+786,Wikibox,Indian,Average,Soho,13:47,12:59,3,true
+787,Rhyloo,Chinese,Cheap,Harlem,3:17,21:47,1,true
+788,Bluezoom,Chinese,Average,Hudson Yards,10:27,20:35,4,false
+789,Edgetag,Arabic,Expensive,Upper East Side,3:55,9:15,4,false
+790,Avaveo,Mexican,Expensive,Chelsea,22:33,23:42,3,true
+791,Skyvu,Italian,Average,East Village,4:30,1:53,4,true
+792,Fivechat,Italian,Expensive,Hudson Yards,7:47,11:01,4,true
+793,Divape,Arabic,Average,Hudson Yards,13:17,0:58,4,false
+794,Plajo,Mediterranean,Expensive,Harlem,11:48,11:30,2,true
+795,Babblestorm,Czech,Expensive,Chelsea,20:59,22:29,4,false
+796,Pixope,Mediterranean,Average,Chelsea,15:28,11:15,3,true
+797,Kayveo,Italian,Average,Harlem,14:11,2:12,1,true
+798,Tambee,Italian,Cheap,East Village,10:26,20:36,4,false
+799,Youspan,Czech,Expensive,Chelsea,0:23,3:26,5,true
+800,Voonte,Greek,Cheap,Chelsea,10:23,11:06,5,false
+801,Feednation,Indian,Average,Soho,22:05,0:44,1,true
+802,Skinte,Arabic,Average,Chelsea,2:09,5:34,1,false
+803,Skippad,Italian,Average,Soho,8:44,22:52,5,false
+804,Bubbletube,Arabic,Average,Hudson Yards,1:22,19:24,5,true
+805,Yadel,Mexican,Cheap,Chelsea,22:18,20:51,3,true
+806,Plambee,Mediterranean,Expensive,Soho,19:21,1:33,2,true
+807,Mynte,Italian,Expensive,Soho,13:26,8:00,5,true
+808,Youspan,Chinese,Cheap,Upper East Side,3:53,21:37,4,true
+809,Snaptags,Italian,Cheap,Soho,10:27,0:56,4,false
+810,Shufflebeat,Arabic,Cheap,Soho,19:42,13:42,3,true
+811,Wikizz,Thai,Average,East Village,19:42,2:41,2,true
+812,Rhyloo,Italian,Cheap,Harlem,13:19,7:49,3,false
+813,Jamia,Thai,Cheap,Upper East Side,20:54,17:21,2,true
+814,Jaxspan,Czech,Average,Hudson Yards,4:02,1:45,5,true
+815,Riffpedia,Thai,Expensive,Hudson Yards,15:23,9:55,2,false
+816,InnoZ,Arabic,Cheap,East Village,1:20,7:25,1,true
+817,Rhycero,Greek,Cheap,Financial District,12:43,11:03,2,false
+818,Oyope,Czech,Cheap,Harlem,7:35,0:21,4,false
+819,Mydo,Indian,Expensive,East Village,8:46,8:25,3,false
+820,Layo,Mexican,Expensive,Harlem,4:49,20:24,5,true
+821,Jaloo,Arabic,Expensive,Financial District,9:18,3:10,3,true
+822,Eadel,Italian,Expensive,Chelsea,10:55,11:15,3,true
+823,Skiptube,Czech,Cheap,Harlem,6:23,18:28,2,true
+824,Rhynyx,Indian,Expensive,Hudson Yards,20:15,22:51,2,true
+825,Photobug,Mediterranean,Expensive,Chelsea,2:23,5:42,3,true
+826,Voolia,Greek,Expensive,Soho,15:38,12:29,2,false
+827,Livefish,Italian,Expensive,Financial District,22:22,4:04,3,true
+828,Gigaclub,Mexican,Expensive,East Village,3:12,5:09,1,true
+829,Snaptags,Arabic,Average,Harlem,7:48,8:01,5,true
+830,Oozz,Italian,Expensive,Hudson Yards,6:58,1:14,1,false
+831,Brainlounge,Czech,Expensive,East Village,4:27,19:06,5,false
+832,Zooxo,Czech,Expensive,Chelsea,2:35,18:29,4,true
+833,Gevee,Mexican,Cheap,Chelsea,16:49,2:38,2,false
+834,Wikizz,Greek,Cheap,Soho,20:51,4:44,2,false
+835,Abatz,Greek,Cheap,Upper East Side,11:24,7:16,2,true
+836,Skyble,Thai,Cheap,Soho,23:02,10:31,4,false
+837,Eire,Thai,Cheap,Harlem,14:38,11:17,3,false
+838,Gevee,Mediterranean,Average,Hudson Yards,22:35,12:32,2,false
+839,Dabfeed,Mediterranean,Average,Soho,6:09,22:17,3,true
+840,Edgepulse,Czech,Average,Harlem,10:50,16:04,4,true
+841,Pixonyx,Italian,Cheap,Harlem,23:53,11:06,4,true
+842,Quaxo,Thai,Cheap,Upper East Side,0:58,0:02,4,true
+843,Gabvine,Czech,Cheap,Soho,7:57,11:08,2,true
+844,Voonder,Mexican,Expensive,Harlem,6:34,17:02,3,true
+845,Zoombeat,Mexican,Expensive,Harlem,0:04,20:51,3,false
+846,Dabshots,Czech,Cheap,Hudson Yards,5:51,15:50,3,false
+847,Tazz,Czech,Cheap,Upper East Side,20:39,9:52,4,false
+848,Wordtune,Mediterranean,Expensive,Chelsea,1:13,21:31,5,false
+849,Skinder,Italian,Expensive,East Village,20:06,8:49,4,false
+850,Katz,Thai,Cheap,Upper East Side,20:05,9:54,4,false
+851,Youspan,Thai,Expensive,Chelsea,0:57,0:11,2,true
+852,Bluezoom,Indian,Average,Harlem,10:12,4:08,1,false
+853,Thoughtworks,Arabic,Expensive,East Village,14:33,10:43,3,false
+854,Tagfeed,Mediterranean,Expensive,Upper East Side,20:00,6:41,1,true
+855,Flashspan,Indian,Average,East Village,22:35,23:57,4,true
+856,Trilia,Mexican,Average,Upper East Side,4:03,1:43,1,true
+857,Jaxnation,Mediterranean,Cheap,Financial District,22:01,3:39,5,true
+858,Divavu,Mexican,Cheap,Chelsea,0:08,20:24,5,true
+859,Kwideo,Greek,Average,Upper East Side,15:14,7:37,2,false
+860,Voonte,Greek,Cheap,East Village,12:26,4:56,2,false
+861,Kwideo,Greek,Average,Financial District,13:41,3:03,5,true
+862,Aimbu,Indian,Cheap,Soho,16:21,15:38,4,false
+863,Avamba,Mexican,Expensive,Harlem,16:33,3:47,2,true
+864,Camido,Greek,Cheap,East Village,10:34,8:30,2,true
+865,Skimia,Thai,Average,Soho,5:14,23:51,3,false
+866,Skidoo,Mediterranean,Average,Soho,18:06,1:04,5,true
+867,Gigabox,Mexican,Expensive,East Village,18:28,19:33,4,true
+868,Jayo,Italian,Expensive,Harlem,1:37,11:17,3,false
+869,Wordify,Chinese,Expensive,Harlem,9:41,14:11,1,true
+870,Viva,Greek,Cheap,Harlem,16:13,12:06,5,false
+871,Pixope,Chinese,Average,Chelsea,14:44,16:43,3,false
+872,Quamba,Chinese,Expensive,Harlem,22:56,12:29,2,false
+873,Jabberstorm,Indian,Expensive,Hudson Yards,16:58,17:05,5,false
+874,Jabbersphere,Thai,Average,Financial District,2:08,19:40,4,false
+875,Linktype,Thai,Average,Upper East Side,15:59,15:01,1,true
+876,Linkbuzz,Mexican,Cheap,Upper East Side,21:57,14:28,4,true
+877,Plajo,Arabic,Expensive,Hudson Yards,3:25,6:41,2,true
+878,Aibox,Thai,Average,Harlem,4:55,5:13,2,false
+879,Babbleopia,Greek,Expensive,Financial District,14:17,20:30,2,true
+880,Riffpedia,Indian,Expensive,Upper East Side,5:25,5:19,1,false
+881,Babblestorm,Chinese,Expensive,East Village,17:49,4:12,5,true
+882,Flipbug,Mediterranean,Expensive,Harlem,2:20,2:10,5,false
+883,Twitternation,Indian,Average,Soho,2:32,21:51,4,true
+884,Blogtags,Italian,Average,Upper East Side,17:53,18:45,3,false
+885,Tagfeed,Mexican,Expensive,Harlem,12:02,17:25,1,false
+886,Dabshots,Mexican,Cheap,Harlem,21:03,6:41,5,false
+887,Skimia,Italian,Expensive,Harlem,16:28,16:02,2,false
+888,Riffwire,Chinese,Average,Hudson Yards,4:50,22:06,1,false
+889,Demivee,Italian,Expensive,Chelsea,18:05,8:37,1,false
+890,Zoonoodle,Greek,Average,East Village,9:17,11:57,3,false
+891,Voonder,Indian,Expensive,East Village,17:09,9:10,3,false
+892,Topicware,Indian,Cheap,Upper East Side,1:55,22:45,3,true
+893,Browsetype,Thai,Average,Harlem,3:30,11:24,1,true
+894,Kaymbo,Greek,Expensive,Soho,18:17,2:13,5,true
+895,Kaymbo,Czech,Average,Chelsea,18:27,19:17,4,true
+896,Jetpulse,Indian,Average,Soho,5:25,20:39,1,false
+897,Fivechat,Italian,Average,Soho,23:42,5:09,5,true
+898,Youopia,Czech,Expensive,Chelsea,13:00,10:10,3,false
+899,Rhynoodle,Italian,Average,Soho,22:08,6:26,5,false
+900,Ntag,Chinese,Average,Financial District,8:45,19:30,5,false
+901,Thoughtstorm,Indian,Cheap,Hudson Yards,19:35,21:55,2,false
+902,Skyble,Mexican,Expensive,Financial District,19:45,9:27,1,true
+903,Podcat,Mexican,Expensive,Hudson Yards,13:33,23:10,3,false
+904,Rhyloo,Arabic,Expensive,Soho,12:13,3:12,4,true
+905,Trudeo,Chinese,Average,Harlem,0:55,19:36,3,false
+906,Mynte,Czech,Average,Soho,22:13,20:47,4,true
+907,Realmix,Thai,Expensive,Financial District,17:52,6:11,2,false
+908,Dynazzy,Greek,Expensive,East Village,3:51,20:43,2,false
+909,Zoovu,Mexican,Cheap,Hudson Yards,19:31,15:43,4,true
+910,Skibox,Italian,Cheap,Harlem,21:27,5:23,1,false
+911,Topicblab,Greek,Cheap,Financial District,2:55,9:50,4,true
+912,Tazzy,Mediterranean,Cheap,Hudson Yards,9:29,5:50,5,false
+913,Mudo,Arabic,Average,Upper East Side,14:10,8:52,2,true
+914,Realpoint,Mexican,Expensive,East Village,18:30,20:29,4,true
+915,Pixoboo,Thai,Expensive,Soho,12:13,16:53,1,true
+916,Dablist,Greek,Expensive,Upper East Side,4:08,17:37,5,true
+917,Wikibox,Czech,Average,Chelsea,10:55,10:03,3,false
+918,Skalith,Chinese,Cheap,Soho,14:19,16:08,1,true
+919,Aimbo,Chinese,Cheap,Harlem,18:50,2:45,5,true
+920,Yamia,Mexican,Cheap,East Village,0:44,5:31,5,true
+921,Chatterpoint,Mexican,Average,Hudson Yards,4:34,12:47,2,true
+922,Dynava,Mediterranean,Expensive,Chelsea,7:09,11:53,1,false
+923,Zoomdog,Czech,Expensive,Harlem,2:36,22:34,3,true
+924,Tagtune,Mediterranean,Average,Soho,12:34,22:49,3,true
+925,Realcube,Czech,Expensive,Harlem,8:12,8:02,5,false
+926,Jabbercube,Greek,Average,Financial District,5:27,20:26,5,false
+927,Yacero,Mexican,Cheap,Harlem,3:46,7:12,5,false
+928,Trunyx,Thai,Expensive,East Village,12:54,15:08,3,false
+929,Babbleopia,Italian,Expensive,Financial District,19:21,18:20,3,true
+930,Ntag,Greek,Expensive,Soho,7:36,15:53,5,true
+931,Camido,Chinese,Average,East Village,4:12,18:05,5,false
+932,Brightdog,Indian,Cheap,Financial District,11:48,14:18,2,true
+933,Yoveo,Thai,Cheap,Chelsea,4:27,22:40,1,false
+934,Skalith,Czech,Average,Soho,8:36,15:09,2,false
+935,Meeveo,Indian,Average,East Village,9:42,6:31,3,false
+936,Wordtune,Thai,Average,Soho,6:00,18:25,1,false
+937,Twinder,Indian,Average,East Village,3:46,0:43,2,false
+938,Zoomzone,Greek,Expensive,Soho,23:29,16:58,5,false
+939,Eadel,Arabic,Cheap,Hudson Yards,5:53,22:39,1,false
+940,Avavee,Thai,Cheap,Harlem,6:02,10:48,2,false
+941,Vimbo,Greek,Expensive,Hudson Yards,15:42,11:20,4,false
+942,Topdrive,Indian,Expensive,Harlem,2:49,23:37,3,false
+943,Oloo,Czech,Expensive,Harlem,0:00,4:12,1,false
+944,Twitterbridge,Mediterranean,Average,Upper East Side,9:07,3:09,2,true
+945,Zoovu,Chinese,Average,Upper East Side,8:36,0:37,5,true
+946,Buzzshare,Greek,Expensive,Financial District,7:24,17:43,1,true
+947,Reallinks,Thai,Cheap,Hudson Yards,10:54,15:25,5,true
+948,Twitterworks,Mexican,Average,East Village,18:37,6:19,1,true
+949,Bluezoom,Mexican,Average,Hudson Yards,20:34,23:46,4,false
+950,Voonder,Chinese,Cheap,Chelsea,1:08,16:54,3,false
+951,Flashset,Arabic,Average,Financial District,3:37,7:37,2,true
+952,Jaxworks,Mexican,Expensive,Upper East Side,8:34,18:39,1,true
+953,Jabbersphere,Indian,Expensive,Financial District,6:12,13:07,2,false
+954,Pixoboo,Greek,Expensive,Soho,16:25,1:51,2,true
+955,Skidoo,Indian,Cheap,East Village,21:44,15:22,5,false
+956,Topicstorm,Mediterranean,Average,Hudson Yards,1:22,6:26,4,false
+957,Dablist,Chinese,Expensive,Upper East Side,5:08,3:08,3,true
+958,Tavu,Arabic,Cheap,Harlem,3:39,0:10,3,true
+959,Yata,Thai,Average,Harlem,19:52,9:21,4,false
+960,Dabvine,Indian,Average,Chelsea,5:11,3:55,5,false
+961,Wordpedia,Mediterranean,Expensive,Upper East Side,20:42,23:04,5,false
+962,Tagcat,Czech,Average,East Village,6:53,11:39,1,true
+963,Youspan,Mexican,Expensive,Financial District,17:26,7:29,4,true
+964,Devshare,Thai,Average,Hudson Yards,17:36,4:38,3,true
+965,Katz,Chinese,Expensive,East Village,20:44,12:14,4,false
+966,Brightbean,Mediterranean,Cheap,Soho,21:55,7:36,4,true
+967,Tagopia,Czech,Cheap,Harlem,11:34,16:18,1,true
+968,Buzzdog,Chinese,Expensive,Harlem,3:48,6:27,1,false
+969,Eidel,Mediterranean,Cheap,Harlem,5:29,22:59,4,true
+970,Riffpath,Mediterranean,Average,Harlem,12:37,5:02,2,true
+971,Youfeed,Greek,Average,Harlem,0:57,17:36,1,true
+972,Skajo,Czech,Expensive,Upper East Side,5:21,23:25,1,true
+973,Vipe,Thai,Expensive,Hudson Yards,13:51,1:20,5,true
+974,Linktype,Indian,Expensive,Upper East Side,8:54,10:19,3,true
+975,Jayo,Chinese,Average,Soho,21:28,16:10,4,false
+976,Skiba,Indian,Cheap,Chelsea,12:36,9:43,1,true
+977,Bluezoom,Italian,Average,Financial District,2:09,21:44,4,false
+978,Meevee,Mexican,Average,Upper East Side,4:09,10:15,4,false
+979,Thoughtworks,Mediterranean,Expensive,Financial District,16:07,15:35,4,false
+980,Pixope,Chinese,Cheap,Hudson Yards,12:12,15:00,4,false
+981,Realbridge,Thai,Expensive,Harlem,12:43,11:55,1,true
+982,Digitube,Czech,Expensive,East Village,13:46,20:03,4,false
+983,Quimba,Indian,Average,East Village,18:20,16:06,1,true
+984,Jatri,Chinese,Expensive,Financial District,23:01,18:25,3,false
+985,Eadel,Italian,Expensive,Harlem,0:36,17:06,1,true
+986,Photojam,Greek,Cheap,Harlem,14:12,10:29,5,true
+987,Vinder,Italian,Expensive,Harlem,16:56,19:35,2,true
+988,Browsedrive,Indian,Average,East Village,1:11,1:08,1,true
+989,Yombu,Mediterranean,Cheap,Hudson Yards,7:18,18:40,1,false
+990,Tagfeed,Mediterranean,Cheap,East Village,23:33,9:01,2,true
+991,Eazzy,Mexican,Expensive,Upper East Side,14:43,6:29,2,true
+992,Riffpath,Italian,Average,Harlem,2:52,18:41,3,true
+993,Tagcat,Greek,Expensive,Soho,20:30,6:32,1,false
+994,Jabbersphere,Czech,Average,East Village,7:37,1:27,1,true
+995,Browsetype,Thai,Expensive,Financial District,23:05,3:42,5,true
+996,Eadel,Mediterranean,Expensive,Upper East Side,8:34,23:38,4,false
+997,Wikido,Arabic,Average,East Village,14:47,17:07,1,true
+998,Cogilith,Thai,Average,Financial District,5:26,19:16,5,true
+999,Lazzy,Thai,Cheap,Hudson Yards,10:46,11:50,2,true
+1000,Voolith,Indian,Cheap,Chelsea,17:21,18:30,5,false
